@@ -12,12 +12,13 @@ It includes examples covering:
 - Data analysis with **Pandas**, **NumPy**
 - Basic data visualization using **Matplotlib**
 
-## 📂 Folder Structure (suggested)
+## 📂 Folder Structure
 
-/basics → Python fundamentals and syntax
-/data_analysis → Pandas, NumPy practice
-/visualization → Matplotlib examples
-/mini_projects → Small Python automation or analysis tasks
+- `/basics` → Python fundamentals and syntax  
+- `/data_analysis` → Pandas, NumPy practice  
+- `/visualization` → Matplotlib examples  
+- `/mini_projects` → Small Python automation or analysis tasks  
+
 
 
 ## 🚀 Goal
